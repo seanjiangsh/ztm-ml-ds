@@ -5,6 +5,8 @@ This project focuses on practicing the basics of Machine Learning and Data Scien
 ## Projects
 
 - Supervised Learning (Classification)
+- Supervised Learning (Time series data)
+- Neural Network (Dog breed vision)
 
 ## Getting Started
 
@@ -13,3 +15,4 @@ This project focuses on practicing the basics of Machine Learning and Data Scien
 3. Install the required packages by running `pip install -r requirements.txt`.
 4. Run the Jupyter notebook directly in VSCode (Jupyter extension is required).
 5. Alternatively, start the Jupyter notebook in your browser by running `jupyter notebook`.
+6. In neural-network project, the notebook should be running on Google Colab for GPU acceleration.
